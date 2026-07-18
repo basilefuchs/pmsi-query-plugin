@@ -1,0 +1,13 @@
+{
+  "name": "pmsi-marketplace",
+  "owner": {
+    "name": "Basile Fuchs"
+  },
+  "plugins": [
+    {
+      "name": "pmsi-query",
+      "source": "./",
+      "description": "Génération interactive de scripts R dplyr/dbplyr pour la base nationale PMSI (portail ATIH)."
+    }
+  ]
+}

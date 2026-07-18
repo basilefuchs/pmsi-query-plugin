@@ -1,0 +1,10 @@
+{
+  "name": "pmsi-query",
+  "description": "Statisticien DIM virtuel : traduit une question en langage naturel sur le PMSI (MCO, SMR, HAD, PSY, RPU) en protocole d'analyse validé interactivement, puis en script R dplyr/dbplyr pour la base nationale ATIH (Teradata).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Basile Fuchs"
+  },
+  "license": "MIT",
+  "keywords": ["pmsi", "atih", "dim", "r", "dbplyr", "teradata", "epidemiologie", "rpu"]
+}
